@@ -24,6 +24,19 @@ Sou uma profissional em transição de carreira para desenvolvedora front-end, b
   * **Versionamento:**
     * Git
     * GitHub
+  * **APIs:**
+    * Consumo e integração (Postman)
+  * **Plataformas:**
+    * Azure
+    * Jira
+    * Salesforce
+  * **Soft skills:**
+    * Criatividade
+    * Empatia 
+    * Comunicação
+    * Trabalho em Equipe
+    * Organização 
+    * Adaptabilidade
 ***
 ## 🚀 Projetos 
 
