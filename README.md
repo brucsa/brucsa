@@ -31,7 +31,7 @@ Sou uma profissional em transição de carreira para desenvolvedora front-end, b
 ***
 ## 📧 Contato 
 
-[![github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/brunacsa)
+[![github](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/brucsa)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacsa/)
 [![instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/brucsa/)
 [![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bru.csa16@gmail.com)
