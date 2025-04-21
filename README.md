@@ -27,7 +27,7 @@ Sou uma profissional em transição de carreira para desenvolvedora front-end, b
 ***
 ## 🚀 Projetos 
 
-  * **Repositório GitHub:** [Link do meu repositório](https://github.com/brunacsa) - Aqui você encontrará meus projetos de desenvolvimento front-end.
+  * **Repositório GitHub:** [Link do meu repositório](https://github.com/brucsa) - Aqui você encontrará meus projetos de desenvolvimento front-end.
 ***
 ## 📧 Contato 
 
