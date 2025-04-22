@@ -19,7 +19,7 @@ Sou uma profissional em transição de carreira para desenvolvedora front-end, b
     * CSS
     * JavaScript
   * **Frameworks/Bibliotecas:**
-    * React
+    * React.js
     * Node.js 
   * **Versionamento:**
     * Git
