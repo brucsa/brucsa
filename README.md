@@ -5,7 +5,6 @@ Olá\! 👋
 Sou uma profissional em transição de carreira para desenvolvedora front-end, buscando novos desafios para desenvolver minhas habilidades práticas e contribuir com projetos inovadores na área de desenvolvimento web. Estou comprometida em aprender e me aprimorar constantemente no universo do front-end.
 ***
 ## 📚 Formação 
-
   * **Web Designer Front-End** / SENAI
   * **UX/UI Designer** / Design Circuit
   * **Design de Interface Web** / SENAI
@@ -13,30 +12,10 @@ Sou uma profissional em transição de carreira para desenvolvedora front-end, b
   * **Fotografia** / Escola Panamericana Arte e Design
 ***
 ## 💪 Habilidades 
-
-  * **Linguagens:**
-    * HTML
-    * CSS
-    * JavaScript
-  * **Frameworks/Bibliotecas:**
-    * React.js
-    * Node.js 
-  * **Versionamento:**
-    * Git
-    * GitHub
-  * **APIs:**
-    * Consumo e integração (Postman)
-  * **Plataformas:**
-    * Azure
-    * Jira
-    * Salesforce
-  * **Soft skills:**
-    * Criatividade
-    * Empatia 
-    * Comunicação
-    * Trabalho em Equipe
-    * Organização 
-    * Adaptabilidade
+* **Linguagens:** HTML | CSS | JavaScript
+*  **Frameworks/Bibliotecas:** React.js
+*  **Plataformas/Tecnologias:** Node.js | Azure | Jira | Salesforce
+* **Soft Skills:** Criatividade  | Empatia | Comunicação | Trabalho em Equipe | Organização | Adaptabilidade
 ***
 ## 🚀 Projetos 
 
