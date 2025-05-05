@@ -14,7 +14,7 @@ Sou uma profissional em transição de carreira para desenvolvedora front-end, b
 ## 💪 Habilidades 
 * **Linguagens:** HTML | CSS | JavaScript
 *  **Frameworks/Bibliotecas:** React.js
-*  **Plataformas/Tecnologias:** Node.js | Azure | Jira | Salesforce
+*  **Plataformas/Tecnologias:** Node.js | Azure | Jira | Salesforce | Figma
 * **Soft Skills:** Criatividade  | Empatia | Comunicação | Trabalho em Equipe | Organização | Adaptabilidade
 ***
 ## 🚀 Projetos 
